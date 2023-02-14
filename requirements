@@ -1,0 +1,9 @@
+kornia
+torch
+torchvision
+numpy
+Pillow
+tqdm
+einops
+adabelief-pytorch
+retry

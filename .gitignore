@@ -128,8 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-images/*
-checkpoints/
+data/*
 1024/*
-checkpoints1024/
-checkpoints1/
+checkpoints*/
